@@ -27,7 +27,9 @@ Founded by [@spxnso](https://github.com/spxnso), we focus on building secure, hi
 
 📧 hello@sphexa.io  
 🌐 [sphexa.io](https://sphexa.io)  
-[![Discord](https://cdn.simpleicons.org/discord/5865F2)](https://discord.gg/sphexa)
+<a href="https://discord.gg/sphexa">
+  <img src="https://cdn.simpleicons.org/discord/5865F2" width="20" alt="Discord" />
+</a>
 
 
 ---
