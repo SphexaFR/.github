@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-cdn/logo.png" alt="Sphexa logo" width="120" />
+  <img src="https://github.com/Sphexa-EURL.png" alt="Sphexa logo" width="120" />
 </p>
 
 <h1 align="center">Sphexa</h1>
