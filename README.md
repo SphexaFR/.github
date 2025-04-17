@@ -4,10 +4,6 @@
 
 <h1 align="center">Sphexa</h1>
 
-<p align="center"><em>Secure. Code. Create.</em></p>
-
----
-
 ## About us
 
 **Sphexa** is a French tech company specializing in **cybersecurity**, **software development**, and **IT solutions**.
