@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://github.com/Sphexa-EURL.png" alt="Sphexa logo" width="120" />
+  <br>
+  <strong style="font-size: 24px;">Sphexa</strong>
 </p>
-
-<h1 align="center">Sphexa</h1>
 
 ## About us
 
