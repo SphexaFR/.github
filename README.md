@@ -1,11 +1,13 @@
 <p align="center">
   <img src="https://github.com/Sphexa-EURL.png" alt="Sphexa logo" width="120" />
-  <br>
 </p>
 
-<h1 align="center">Sphexa</h1>
+<h2 align="center">Sphexa</h2>
 
-**Sphexa** is a French tech company specializing in **cybersecurity**, **software development**, and **IT solutions**.
+<p align="center">
+  <strong>Sphexa</strong> is a French tech company specializing in <strong>cybersecurity</strong>, <strong>software development</strong>, and <strong>IT solutions</strong>.
+</p>
 
-Founded by [@spxnso](https://github.com/spxnso), we focus on building secure, high-performance, and modern tools for the future of tech.
-
+<p align="center">
+  Founded by <a href="https://github.com/spxnso">@spxnso</a>, we focus on building secure, high-performance, and modern tools for the future of tech.
+</p>
