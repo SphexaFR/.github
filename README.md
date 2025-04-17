@@ -3,7 +3,7 @@
   <br>
 </p>
 
-# Sphexa
+<h1 align="center">Sphexa</h1>
 
 **Sphexa** is a French tech company specializing in **cybersecurity**, **software development**, and **IT solutions**.
 
