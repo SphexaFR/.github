@@ -2,7 +2,7 @@
   <img src="https://github.com/Sphexa-EURL.png" alt="Sphexa logo" width="120" />
 </p>
 
-# Sphexa
+<h1 align="center">Sphexa</h1>
 
 **Sphexa** is a French tech company specializing in **cybersecurity**, **software development**, and **IT solutions**.
 
