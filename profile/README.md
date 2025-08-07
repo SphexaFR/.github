@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SphexFR.png" alt="Sphexa logo" width="120" />
+  <img src="https://github.com/SphexaFR.png" alt="Sphexa logo" width="120" />
 </p>
 
 <h2 align="center">Sphexa</h2>
